@@ -1,0 +1,14 @@
+{
+  "type": "detailform",
+  "name": "Grouped List with image header",
+  "fields": {
+    "count": 1,
+      "max": 0
+       },
+  "assets": {
+    "size": {
+      "width": 16,
+      "height": 16
+    }
+  }
+}
